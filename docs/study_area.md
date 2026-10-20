@@ -11,8 +11,8 @@ Johnston St frontage between them.
    counted on a 1 km grid. Catch basin and subsurface pipe requests (1,354
    citywide) mark curb-and-gutter neighborhoods, where inlets are; the more
    common roadside ditch requests mark areas without them.
-2. The cell west of campus was one of the densest for those requests: 27 in
-   1 km², against a citywide average well under 10.
+2. The cell west of campus had 27 of those requests, the 4th highest of the
+   232 cells with any (mean 5.8, median 3).
 3. A full 1 km² cell holds 14 km of streets, too much for three or four
    45-minute field sessions. The square was cut to 700 m, centred on the
    median location of those requests. It keeps 19 catch basin and pipe
