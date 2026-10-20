@@ -1,0 +1,8 @@
+data/raw/
+*.gdb/
+*.aprx.bak
+*.lock
+*.tif
+*.tif.aux.xml
+__pycache__/
+.ipynb_checkpoints/
