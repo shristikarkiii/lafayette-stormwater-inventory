@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "study_area",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-06,
+"features": [
+{ "type": "Feature", "properties": { "name": "Twin Oaks / Oakview study area", "side_m": 700 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -92.025645, 30.205975 ], [ -92.025583, 30.212291 ], [ -92.032855, 30.212345 ], [ -92.032917, 30.206029 ], [ -92.025645, 30.205975 ] ] ] } }
+]
+}
