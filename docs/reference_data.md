@@ -23,7 +23,7 @@ structure data for the area.
 
 **The 21 requests come from 10 locations.** One inlet on Whittington Dr
 accounts for 12 of them: 10 between May 2017 and Aug 2019 (blockages,
-flushes and one cross drain blockage), then 2 more blockages about 1.5 m
+flushes and one cross drain blockage), then 2 more blockages about 2 m
 away in Dec 2019 and Jan 2020. A second location, Oakview Blvd at Twin Oaks
 Blvd, has 2. Repeat requests at one point mark a chronic problem inlet, and
 both are priority stops in the field.
