@@ -1,8 +1,8 @@
 # Data dictionary
 
-Schema for the field inventory. `scripts/build_gdb.py` (Day 4 to 6) builds
-the geodatabase from this document, so a change here is a change to the
-data model.
+Schema for the field inventory. `scripts/schema.py` transcribes it into
+code and `scripts/build_gdb.py` builds the geodatabase from that, so a change
+here must be made in both; the schema test (Day 7) fails if they disagree.
 
 - **Geodatabase:** file geodatabase, NAD83 / Louisiana South (ftUS), EPSG 3452
 - **Field names:** upper case, no spaces, at most 31 characters
